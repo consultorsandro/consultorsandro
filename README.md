@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @consultorsandro
-- 👀 I’m interested in C++, Ruby on Rails and DevOps
+- 👀 I’m interested in C++, Ruby on Rails and Back End
 - 🌱 I’m currently learning Ruby on Rails, Git and Github, SQL, Firebase, Postgres and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
