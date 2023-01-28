@@ -21,7 +21,7 @@ class Programmer
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marcodotcastro" alt="marcodotcastro" /> </p>
 
 
-<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="400px" />
+<img align="center" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="400px" />
 
 
 
