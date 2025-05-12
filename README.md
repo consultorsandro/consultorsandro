@@ -1,9 +1,9 @@
 # Olá, eu sou Sandro Reis
 
-```ruby 
+```rust 
 class Programmer
 
-	def initialize() 
+	fn initialize() 
 ```
 
 <p align="left">
