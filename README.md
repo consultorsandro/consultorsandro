@@ -1,7 +1,7 @@
 # Olá, eu sou Sandro Reis
 
 ```rust 
-#[macro_use] no_stress rust;
+#[allow(no_stressing)] 
 
 	fn initialize() 
 ```
