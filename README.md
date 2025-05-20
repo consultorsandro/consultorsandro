@@ -3,7 +3,7 @@
 ```rust 
 #[allow(no_stressing)] 
 
-	fn initialize() 
+	fn main() 
 ```
 
 <p align="left">
