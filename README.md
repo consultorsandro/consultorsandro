@@ -1,8 +1,8 @@
 # Olá, eu sou Sandro Reis
 
-:alien: Aposentado pelo Exército com Passador de Ouro! 31 anos servindo com excelência!
-:wrench: Cursando Engenharia de Software  
-:mortar_board: Estudos continuados no universo da linguagem Rust 
+:alien: Aposentado pelo Exército com Passador de Ouro! 31 anos servindo com excelência!                                   
+:wrench: Cursando Engenharia de Software;  
+:mortar_board: Estudos continuados no universo da linguagem Rust;                         
 :four_leaf_clover: Iniciar uma nova carreira é como nascer de novo!
 
 <p align="left">
