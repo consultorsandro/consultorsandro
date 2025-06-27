@@ -1,6 +1,6 @@
 # Olá, eu sou Sandro Reis
 
-:alien: Me chamo, Aline!  
+:alien: Aposentado pelo Exército com Passador de Ouro! 31 anos servindo com excelência!
 :wrench: Técnica em Manutenção e Suporte ao Computador - UFRN  
 :mortar_board: Licenciada em Computação - UFERSA  
 :milky_way: Sou uma observadora do Universo que está em eterno aprendizado  
