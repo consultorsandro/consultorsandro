@@ -1,11 +1,9 @@
 # Olá, eu sou Sandro Reis
 
 :alien: Aposentado pelo Exército com Passador de Ouro! 31 anos servindo com excelência!
-:wrench: Técnica em Manutenção e Suporte ao Computador - UFRN  
-:mortar_board: Licenciada em Computação - UFERSA  
-:milky_way: Sou uma observadora do Universo que está em eterno aprendizado  
-💞️ Estou colaborando a minha jornada Dev e todos os meus estudos de Computação  
-:four_leaf_clover: Espero que possa contribuir com aqueles que estão iniciando e que, assim como eu, são apaixonados por Programação!
+:wrench: Cursando Engenharia de Software  
+:mortar_board: Estudos continuados no universo da linguagem Rust 
+:four_leaf_clover: Iniciar uma nova carreira é como nascer de novo!
 
 <p align="left">
     <h3 align="left">Connect with me:</h3>
