@@ -1,10 +1,11 @@
 # Olá, eu sou Sandro Reis
 
-```rust 
-#[allow(no_stressing)] 
-
-	fn main() 
-```
+:alien: Me chamo, Aline!  
+:wrench: Técnica em Manutenção e Suporte ao Computador - UFRN  
+:mortar_board: Licenciada em Computação - UFERSA  
+:milky_way: Sou uma observadora do Universo que está em eterno aprendizado  
+💞️ Estou colaborando a minha jornada Dev e todos os meus estudos de Computação  
+:four_leaf_clover: Espero que possa contribuir com aqueles que estão iniciando e que, assim como eu, são apaixonados por Programação!
 
 <p align="left">
     <h3 align="left">Connect with me:</h3>
