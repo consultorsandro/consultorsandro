@@ -32,10 +32,10 @@
 
 ### Tecnologias
 
-<img alt="Sandro-Rust" height="40" width="50" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg">
-<img alt="Sandro-Slint" height="40" width="50" src="https://docs.slint.dev/latest/docs/slint/_astro/slint-logo-small-light.DRFn4pZL.svg">
-<img alt="Sandro-Rocket" height="40" width="50" src="https://rocket.rs/images/sponsors/rwf2.gif">
-<img alt="Sandro-Actix" height="40" width="50" src="https://actix.rs/img/logo.png">
-<img alt="Sandro-Git" height="40" width="50" src="https://git-scm.com/images/logo@2x.png">
-<img alt="Sandro-Linux" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png">
-<img alt="Sandro-Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img alt="Sandro-Rust" height="40" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg">
+<img alt="Sandro-Slint" height="40" src="https://docs.slint.dev/latest/docs/slint/_astro/slint-logo-small-light.DRFn4pZL.svg">
+<img alt="Sandro-Rocket" height="40" src="https://rocket.rs/images/sponsors/rwf2.gif">
+<img alt="Sandro-Actix" height="40" src="https://actix.rs/img/logo.png">
+<img alt="Sandro-Git" height="40" src="https://git-scm.com/images/logo@2x.png">
+<img alt="Sandro-Linux" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png">
+<img alt="Sandro-Postgres" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
