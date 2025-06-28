@@ -15,8 +15,12 @@
 <a href="https://desenvolvendo.me" target="_blank" title="Site pessoal">
   <img src="https://github.com/marcodotcastro/marcodotcastro/blob/master/chrome.png?raw=true" alt="Site pessoal" width="32" height="32"/>
 </a>
-[![YouTube](https://github.com/marcodotcastro/marcodotcastro/blob/master/youtube-v2.png?raw=true)](https://www.youtube.com/@veteranoedev)
-[![Instagram](https://github.com/marcodotcastro/marcodotcastro/blob/master/instagram.png?raw=true)](https://instagram.com/irmao.sandroreis)
+<a href="https://www.youtube.com/@veteranoedev" target="_blank" title="YouTube">
+  <img src="https://github.com/marcodotcastro/marcodotcastro/blob/master/youtube-v2.png?raw=true" alt="YouTube" width="32" height="32"/>
+</a>
+<a href="https://instagram.com/irmao.sandroreis" target="_blank" title="Instagram">
+  <img src="https://github.com/marcodotcastro/marcodotcastro/blob/master/instagram.png?raw=true" alt="Instagram" width="32" height="32"/>
+</a>
 
 ---
 
