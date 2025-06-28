@@ -1,7 +1,5 @@
 # Olá, eu sou Sandro Reis
 
-# Olá, eu sou Sandro Reis
-
 👨‍✈️ Aposentado pelo Exército (Passador de Ouro, 31 anos de excelência)  
 🛠️ Cursando Engenharia de Software  
 🎓 Estudos focados em Rust  
