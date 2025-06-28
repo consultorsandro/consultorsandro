@@ -12,8 +12,9 @@
 <a href="https://www.linkedin.com/in/sandro-reis-9692513a/" target="_blank" title="LinkedIn">
   <img src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="LinkedIn" width="32" height="32"/>
 </a>
-
-[![Site pessoal](https://github.com/marcodotcastro/marcodotcastro/blob/master/chrome.png?raw=true)](https://desenvolvendo.me)
+<a href="https://desenvolvendo.me" target="_blank" title="Site pessoal">
+  <img src="https://github.com/marcodotcastro/marcodotcastro/blob/master/chrome.png?raw=true" alt="Site pessoal" width="32" height="32"/>
+</a>
 [![YouTube](https://github.com/marcodotcastro/marcodotcastro/blob/master/youtube-v2.png?raw=true)](https://www.youtube.com/@veteranoedev)
 [![Instagram](https://github.com/marcodotcastro/marcodotcastro/blob/master/instagram.png?raw=true)](https://instagram.com/irmao.sandroreis)
 
