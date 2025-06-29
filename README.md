@@ -20,6 +20,7 @@
 <a href="https://instagram.com/irmao.sandroreis" target="_blank" title="Instagram">
   <img src="https://github.com/marcodotcastro/marcodotcastro/blob/master/instagram.png?raw=true" alt="Instagram" width="32" height="32"/>
 </a>
+
 ---
 
 ![Visualizações de perfil](https://komarev.com/ghpvc/?username=marcodotcastro)
@@ -30,7 +31,7 @@
 
 ### Tecnologias
 
-<img alt="Sandro-Rust" height="40" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg">
+<img alt="Sandro-Rust" height="40" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg">.
 <img alt="Sandro-Slint" height="40" src="https://docs.slint.dev/latest/docs/slint/_astro/slint-logo-small-light.DRFn4pZL.svg">
 <img alt="Sandro-Rocket" height="40" src="https://rocket.rs/images/sponsors/rwf2.gif">
 <img alt="Sandro-Actix" height="40" src="https://actix.rs/img/logo.png">
