@@ -9,7 +9,8 @@
 
 ### Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/sandro-reis-9692513a/" target="_blank" title="LinkedIn"><img src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="LinkedIn" width="32" height="32"/></a>
+<a href="https://www.linkedin.com/in/sandro-reis-9692513a/" target="_blank" title="LinkedIn">
+<img src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="LinkedIn" width="32" height="32"/></a>
 <a href="https://desenvolvendo.me" target="_blank" title="Site pessoal">
   <img src="https://github.com/marcodotcastro/marcodotcastro/blob/master/chrome.png?raw=true" alt="Site pessoal" width="32" height="32"/>
 </a>
@@ -19,7 +20,6 @@
 <a href="https://instagram.com/irmao.sandroreis" target="_blank" title="Instagram">
   <img src="https://github.com/marcodotcastro/marcodotcastro/blob/master/instagram.png?raw=true" alt="Instagram" width="32" height="32"/>
 </a>
-
 ---
 
 ![Visualizações de perfil](https://komarev.com/ghpvc/?username=marcodotcastro)
