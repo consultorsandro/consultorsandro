@@ -31,7 +31,7 @@
 
 ### Tecnologias
 
-<img alt="Sandro-Rust" height="40" src="[https://hermes.dio.me/skills/874a9e46-78c6-4733-abc7-b8a7b830d7bc.png]">.
+<img alt="Sandro-Rust" height="40" src="https://hermes.dio.me/skills/874a9e46-78c6-4733-abc7-b8a7b830d7bc.png">.
 <img alt="Sandro-Slint" height="40" src="https://docs.slint.dev/latest/docs/slint/_astro/slint-logo-small-light.DRFn4pZL.svg">
 <img alt="Sandro-Rocket" height="40" src="https://rocket.rs/images/sponsors/rwf2.gif">
 <img alt="Sandro-Actix" height="40" src="https://actix.rs/img/logo.png">
