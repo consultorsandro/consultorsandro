@@ -38,3 +38,4 @@
 <img alt="Sandro-Git" height="40" src="https://git-scm.com/images/logo@2x.png">
 <img alt="Sandro-Linux" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png">
 <img alt="Sandro-Postgres" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img alt="Sandro-Co-Pilot" height="40" src=https://studiostaticassetsprod.azureedge.net/bundle-cmc/favicon.svg>
