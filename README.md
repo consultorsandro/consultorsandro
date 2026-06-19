@@ -30,7 +30,7 @@
 ---
 
 ### Tecnologias
-<img alt="Sandro-C++" height="40" src=https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg
+<img alt="Sandro-C++" height="40" src=https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg>
 <img alt="Sandro-Slint" height="40" src="https://docs.slint.dev/latest/docs/slint/_astro/slint-logo-small-light.DRFn4pZL.svg">
 <img alt="Sandro-Git" height="40" src="https://git-scm.com/images/logo@2x.png">
 <img alt="Sandro-Linux" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png">
