@@ -2,7 +2,7 @@
 
 🚀 Aposentado pelo Exército (Passador de Ouro, 31 anos de excelência), Veterano!  
 🛠️ Cursando Engenharia de Software  
-🎓 Estudos focados em Rust  
+🎓 Estudos focados em C++ e Rust  
 🍀 Nova carreira: recomeçando com paixão!
 
 ---
