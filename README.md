@@ -30,7 +30,7 @@
 ### Tecnologias
 <img alt="Sandro-C++" height="40" src=https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg>
 <img alt="Sandro-rust" height="40" src=https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default>
-<img alt="Sandro-slint" height="40" src=https://docs.slint.dev/latest/docs/slint/_astro/slint-logo-small-light.DRFn4pZL.svg>
+<img alt="Sandro-slint" height="40" src=[https://docs.slint.dev/latest/docs/slint/_astro/slint-logo-small-light.DRFn4pZL.svg](https://pbs.twimg.com/profile_images/1701158606610059264/_rE3yia-_400x400.jpg)>
 <img alt="Sandro-Git" height="40" src="https://git-scm.com/images/logo@2x.png">
 <img alt="Sandro-Linux" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png">
 <img alt="Sandro-Postgres" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
